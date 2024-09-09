@@ -1,0 +1,13 @@
+{
+	"name": "SmartCollector",
+	"author": "LouDBasS_101",
+	"version": "1.0.0",
+	"minVersion": "1.131.2",
+	"supportedVersion": "1.131.2",
+	"basePackage": "com.LouDBasS_101",
+	"features": [
+		"com.LouDBasS_101.modules.SmartKillAndCollect"
+	],
+	"download": "https://github.com/darkbot-reloaded/DefaultPlugin/releases/download/v2.0.0/DefaultPlugin.jar",
+	"update": "https://raw.githubusercontent.com/bruhMomentFixer/DarkBot/main/SmartCollector/src/main/resources/plugin.json"
+}
