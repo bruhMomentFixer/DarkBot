@@ -9,5 +9,5 @@
 		"com.LouDBasS_101.behaviours.SmartKillAndCollect"
 	],
 	"download": "https://github.com/darkbot-reloaded/DefaultPlugin/releases/download/v2.0.0/DefaultPlugin.jar",
-	"update": "https://raw.githubusercontent.com/bruhMomentFixer/DarkBot/main/SmartCollector/src/main/resources/plugin.json"
+	"update": "https://raw.githubusercontent.com/bruhMomentFixer/DarkBot/main/SmartKillAndCollect/src/main/resources/plugin.json"
 }
